@@ -1,0 +1,36 @@
+button{
+    width:200px;
+    height:60px;
+    background-color: burlywood;
+    font-size: larger;
+    padding:0px;
+    border-radius: 10px;
+    
+    text-align: center;
+
+}
+button:hover{
+    background-color: blueviolet;
+
+}
+body{
+    background-color: maroon;
+    font-size: larger;
+    text-align: center;
+    color:white
+}
+#first{
+    margin-bottom: 30px;
+    padding:10px;
+}
+#second{
+    margin-bottom: 30px;
+    padding:10px;
+}
+#third{
+    margin-bottom: 30px;
+    padding:10px;
+}
+li{
+    font-size: larger;
+}
